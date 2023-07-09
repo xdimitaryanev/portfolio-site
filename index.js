@@ -1,6 +1,6 @@
 const aboutEl = document.getElementById("about");
 const contactEl = document.getElementById("contact");
-const projectsEl = document.getElementById("projects");
+const workel = document.getElementById("work");
 const helloel = document.getElementById("hello");
 
 aboutEl.addEventListener("click", scrolEl)
